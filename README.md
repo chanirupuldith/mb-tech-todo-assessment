@@ -8,7 +8,7 @@ Ensure you have [Docker](https://docs.docker.com/get-docker/) and [Docker Compos
 
 ```bash
 # Build and start the entire stack
-docker-compose up --build
+docker compose up --build
 ```
 
 The application will be available at:
